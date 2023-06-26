@@ -23,7 +23,7 @@
   "dependencies": {
     "async": "~1.5.x",
     "request": "^2.88.2",
-    "retire": "^1.6.3"
+    "retire": "^4.3.1"
   },
   "devDependencies": {
     "grunt": "~1.6.x",
